@@ -1,8 +1,11 @@
 ### Hi! I'm Brianna 👋
 
 I design things!
+
 I'm a computer science student at the Texas Academy of Mathematics and Science.
+
 I'm big on UI/UX design, web/app development, and marketing. I'm interested in the intersection of design and technology.
+
 Welcome to my Github, currently under renovation 💻
 <!--
 **briannachan3/briannachan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

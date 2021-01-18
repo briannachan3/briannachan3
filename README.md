@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi! I'm Brianna 👋
 
+I'm a computer science student at the Texas Academy of Mathematics and Science interested in the intersection of design and technology.
 <!--
 **briannachan3/briannachan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

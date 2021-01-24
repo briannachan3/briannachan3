@@ -4,7 +4,7 @@ I design things!
 
 I'm a computer science student at the Texas Academy of Mathematics and Science.
 
-I'm big on UI/UX design, web/app development, and marketing. I'm interested in the intersection of design and technology.
+I'm big on UI/UX design and web/app development. I'm interested in the intersection of design and technology.
 
 Welcome to my GitHub, currently under renovation 💻
 <!--

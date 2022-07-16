@@ -2,9 +2,7 @@
 
 I design things!
 
-I'm a computer science student big on UI/UX design and web/mobile application development, w/ a dash of experience in data visualization. 
-
-I work at the intersection of design and technology.
+I'm a first-year computer science student big on UI/UX design. 
 
 Welcome to my GitHub, currently under renovation 💻
 <!--

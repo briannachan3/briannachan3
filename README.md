@@ -1,7 +1,5 @@
 ### Hi! I'm Brianna 👋
 
-I design things!
-
 I'm a first-year computer science student big on UI/UX design. 
 
 Welcome to my GitHub, currently under renovation 💻

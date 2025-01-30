@@ -1,6 +1,6 @@
 ### Hi! I'm Brianna 👋
 
-I'm a second-year computer science student. 
+I'm a third-year computer science student. 
 
 Welcome to my GitHub, currently under renovation 💻
 <!--
